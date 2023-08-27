@@ -11,4 +11,5 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromarchioretto&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarchioretto&hide_progress=true)
