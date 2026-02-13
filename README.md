@@ -1,6 +1,6 @@
 ### Olá, meu nome é Pedro Marchioretto de Paiva 👋 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pedro-marchioretto-4b3894252/](https://www.linkedin.com/in/pedromarchiorettodepaiva/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromarchiorettodepaiva)
 
 ### tecnologias mais utilizadas 🤖
 <div style="display: inline_block">
